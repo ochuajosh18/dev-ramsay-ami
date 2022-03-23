@@ -1,0 +1,18 @@
+[
+  {
+    "id": "1123",
+    "title": "Article 1",
+    "file": null,
+    "enabled": true,
+    "datePosted": "Tue Nov 09 2021 12:12:43 GMT+0800",
+    "body": "Article 1: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ante urna, porttitor eu tellus tincidunt, rutrum efficitur urna. Maecenas et dapibus nisi, ut ullamcorper tellus. Mauris fermentum elit vel nisl."
+  },
+  {
+    "id": "1213",
+    "title": "Article 2",
+    "file": null,
+    "enabled": false,
+    "datePosted": "Wed Nov 10 2021 12:12:43 GMT+0800",
+    "body": "Article 2: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ante urna, porttitor eu tellus tincidunt, rutrum efficitur urna. Maecenas et dapibus nisi, ut ullamcorper tellus. Mauris fermentum elit vel nisl."
+  }
+]

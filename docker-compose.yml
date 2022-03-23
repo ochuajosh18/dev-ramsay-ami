@@ -1,0 +1,12 @@
+version: '3'
+services:
+  dev-ramsay-ami:
+    container_name: dev-ramsay-ami
+    #build:
+      #context: .
+    image: opsenterprise/dev-ramsay-ami
+    volumes:
+       - ./nginx/default.conf:/etc/nginx/conf.d/dev-ramysay-ami/default.conf
+    restart: always
+    ports:
+      - '127.0.0.1:50021:80'
